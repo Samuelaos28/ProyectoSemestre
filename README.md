@@ -38,7 +38,7 @@ El propósito principal es **reforzar los fundamentos de la Programación Orient
 - **IDE sugerido:** IntelliJ IDEA / NetBeans / Eclipse  
 
 ---
-#####¿Cómo puedo ejecutar el programa? 
+###¿Cómo puedo ejecutar el programa? 
 
 ```
 git clone https://github.com/Samuelaos28/ProyectoSemestre/tree/main
